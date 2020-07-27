@@ -1,5 +1,5 @@
 body {
-    background: url(https://www.transparenttextures.com/patterns/bright-squares.png);
+    background: url(https://www.transparenttextures.com/patterns/cartographer.png);
     background-size: auto;
     margin: auto;
     width: 400px;
@@ -30,7 +30,7 @@ h1 {
 }
 
 .buttonStyle {
-    background: #5f61a7 url(https://www.transparenttextures.com/patterns/bright-squares.png);
+    background: #5f61a7 url(https://www.transparenttextures.com/patterns/cartographer.png);
     padding: 5% 38%;
     margin: 17% auto 0;
     width: 100%;
@@ -46,7 +46,7 @@ h1 {
 }
 
 .buttonStyle:hover {
-    background: #7677a0 url(https://www.transparenttextures.com/patterns/bright-squares.png);
+    background: #7677a0 url(https://www.transparenttextures.com/patterns/cartographer.png);
     -webkit-transition: all 900ms ease-in-out;
     -moz-transition: all 900ms ease-in-out;
     -o-transition: all 900ms ease-in-out;
@@ -71,7 +71,7 @@ h1 {
 }
 
 .tabHeader {
-    background: #5f61a7 url(https://www.transparenttextures.com/patterns/bright-squares.png);
+    background: #5f61a7 url(https://www.transparenttextures.com/patterns/cartographer.png);
     margin: auto;
     padding: 40px 50px;
 }
